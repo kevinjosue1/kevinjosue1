@@ -9,7 +9,7 @@
 
 
 - Cómo llegar a mí **Francodelgadojj@gmail.com**
-- ⚡ 📫 Dato curioso **Me gusta aprender nuevas formas de escribir código y soy alguien muy relajado**
+- ⚡ 📫 Dato curioso **Si no conozco el codigo me adapto hasta aprenderlo como si fuera mio.**
 
 
 
