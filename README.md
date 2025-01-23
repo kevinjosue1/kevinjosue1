@@ -3,8 +3,8 @@
 
 
 
-- Actualmente estoy aprendiendo **Cursos, mucho Frontend**
-- 🌱 💬 Pregúntame sobre **React**
+- Actualmente estoy aprendiendo **Principios SOLID, Refactor Code, Buenas practicas**
+- 🌱 💬 Pregúntame sobre **Angular17**
 
 
 
